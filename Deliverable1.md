@@ -5,9 +5,9 @@
 
 **Topic you chose:** topic name
 
-**Sprint Number:** Nr
+**Sprint Number:** 1
 
-**Scrum Master**: Name
+**Scrum Master**: Nicholas Jones
 
 **Git Master**: Name
 
