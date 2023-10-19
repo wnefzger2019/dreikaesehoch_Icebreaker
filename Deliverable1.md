@@ -7,7 +7,7 @@
 
 **Sprint Number:** 1
 
-**Scrum Master**: Nick Jones
+**Scrum Master**: Nicholas Jones
 
 **Git Master**: Jay Nham
 
